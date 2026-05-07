@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Baksho Bondi |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 08, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/baksho-bondi/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Baksho Bondi](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Baksho Bondi](https://music.abusayed.com.bd/Licensing/) |
 | Author | Abu Sayed |
 | Rights | All Rights Reserved |
 
@@ -95,8 +95,8 @@ All lyrics, melody, and composition rights are retained by the author.
 **Proof of Authorship:**
 - **Author:** Abu Sayed
 - **Version:** `v1`
-- **Hash:** `N/A`
-- **Timestamp:** May 08, 2026
+- **Hash:** `None`
+- **Timestamp:** None
 
 See [LICENSE.md](./LICENSE.md) for full terms.
 
