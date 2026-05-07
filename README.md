@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 08, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/baksho-bondi/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Baksho Bondi](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Baksho Bondi](https://music.abusayed.com.bd/Licensing/) |
 | Author | Abu Sayed |
 | Rights | All Rights Reserved |
 
@@ -21,7 +21,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা এই রাতের বুকে তোমার ছায়া ভাসে
+> হারিয়ে যাওয়া স্মৃতির মেঘে হৃদয় কেঁদে আসে
+> অন্ধকারের এই প্রান্তরে খুঁজি তোমার আলো
+> নিঃস্ব এই মনের মাঝে তোমায় বেসেছি ভালো
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
