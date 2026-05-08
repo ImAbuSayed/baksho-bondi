@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Baksho Bondi
+
+This log tracks the cryptographic history and versioning for the song **Baksho Bondi** (baksho-bondi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T02:27:22.541521 | `v1` | `47219df5f309fb3da347f0de55b47c6466915e73fa2934fb0d5fb6d85aba359e` | `1033b985f05aac0b32323ab3de2124adca79c0e194df4ac149d1a1b30ee66e3c` | `2026-05-08_baksho-bondi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
